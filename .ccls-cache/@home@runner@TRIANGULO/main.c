@@ -7,6 +7,7 @@ s = (a+b+c)/2
   */
 #include <stdio.h>
 
+
 int main(void) {
   float x1,y1,x2,y2,x3,y3;
   float a,b,c;
